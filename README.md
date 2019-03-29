@@ -1,6 +1,6 @@
 White Papers:
 
-Following are a few white papers. You can download them from the “Latest Thinking” section from my blog: asiliconvalleyinsider.blog.
+Following are a few white papers. You can download them from the “Latest Thinking” section from my blog: asiliconvalleyinsider.com.
 
 
 Machine Learning Algorithms
